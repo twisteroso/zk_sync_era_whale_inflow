@@ -4,6 +4,7 @@ Live detector for massive bridge deposits (> $500k) landing on zkSync Era — th
 
 These are the moves that kick off the next leg up (or the next insider pump).
 
+
 ### Why this script slaps
 - Catches deposits literally seconds after finality  
 - Shows exact wallet receiving the cash  
